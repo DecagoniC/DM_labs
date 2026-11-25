@@ -8,8 +8,6 @@
 p⊃q⊃r читается как (p⊃q)⊃r, а p∨q⊃r — как (p∨q)⊃r.
 """
 
-from __future__ import annotations
-
 import sys
 from dataclasses import dataclass
 
